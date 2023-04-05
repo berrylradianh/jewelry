@@ -7,6 +7,18 @@
     background-color: rgb(231 70 148);
 }
 
+.border-pink-500 {
+    border-color: rgb(231 70 148);
+}
+
+.hover\:rounded-none:hover {
+    border-radius: 0px;
+}
+
+.hover\:border-b:hover {
+    border-bottom-width: 1px;
+}
+
 @media (min-width: 800px) {
     .lg\:pt-0 {
         padding-top: 0px;
