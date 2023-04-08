@@ -48,3 +48,63 @@
 .hover\:text-pink-500:hover {
     color: rgb(231 70 148);
 }
+
+.m-auto {
+    margin: auto;
+}
+
+.my-auto {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.mt-96  {
+    margin-top: 24rem;
+}
+
+.mt-97  {
+    margin-top: 26rem;
+}
+
+.mt-98  {
+    margin-top: 42rem;
+}
+
+.h-45 {
+    height: 110px;
+}
+
+.text-about {
+    margin-top: 5px;
+}
+
+.h-screen1 {
+    height: 110vh;
+}
+
+.h-screen2 {
+    height: 200vh;
+}
+
+.bg-abu {
+    background-color: rgb(241, 241, 236);
+}
+
+.ml-600 {
+    margin-left: 670px;
+}
+
+.text-rose-800 {
+    color: rgb(159 18 57);
+}
+
+.text-rose-700 {
+    color: rgb(159 18 57);
+}
+
+.opacity-30 {
+    opacity: 0.3;
+}
+.opacity-30 {
+    opacity: 0.3;
+}
